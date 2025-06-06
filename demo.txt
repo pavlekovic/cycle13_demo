@@ -1,3 +1,7 @@
 Hello everyone!
 
 A file!
+
+New line!
+
+Even newer line!
